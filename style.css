@@ -1,0 +1,42 @@
+h1
+{
+    text-align: center;
+    color: rgb(94, 131, 100);
+}
+h2
+{
+    text-align: center;
+    color: rgb(116, 116, 240);
+}
+h3
+{
+    text-align: center;
+    color: rgb(255, 2, 44)
+}
+p
+{
+    text-align: center;
+    color: rgb(255, 94, 161);
+}
+body
+{
+    background: rgba(138, 218, 255, 0.911);
+}
+section
+{
+    background: rgba(255, 255, 150, 0.863);
+}
+footer
+{
+    background: rgb(255, 127, 170);
+}
+div
+{
+    background: rgb(255, 221, 227);
+    font-family: cursive;
+    font-size: 14px;
+}
+a
+{
+    color: black;
+}
